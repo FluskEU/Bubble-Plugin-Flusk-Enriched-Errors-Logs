@@ -1,0 +1,20 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 200,
+        "width": 400
+    },
+    "display": "Security Badge",
+    "fields": {
+        "AAO": {
+            "caption": "Theme",
+            "default_val": "light",
+            "editor": "Dropdown",
+            "name": "theme",
+            "options": "light,dark",
+            "rank": 0
+        }
+    },
+    "icon": "ion-android-checkbox-blank"
+}
