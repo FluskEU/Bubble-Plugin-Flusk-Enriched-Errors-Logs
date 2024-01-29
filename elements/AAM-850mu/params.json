@@ -1,0 +1,27 @@
+{
+    "add_hover_pressed": true,
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 70,
+        "width": 200
+    },
+    "display": "Flusk - Security Badge",
+    "fields": {
+        "AAL": {
+            "caption": "Theme",
+            "default_val": "light",
+            "editor": "Dropdown",
+            "name": "theme",
+            "options": "light,dark",
+            "rank": 0
+        }
+    },
+    "icon": "ion-checkmark-circled",
+    "property_applications": {
+        "Background": true,
+        "Border": true,
+        "MinWidth": true,
+        "resizable": true
+    }
+}

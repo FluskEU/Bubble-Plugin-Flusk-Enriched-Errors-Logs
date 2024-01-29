@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "analytics",
+        "1": "data (things)",
+        "2": "artificial intelligence (AI)",
+        "3": "productivity"
+    },
+    "demo_page": "https://app.flusk.eu/",
+    "description": "This plugin allows you to capture screenshots on errors in your Flusk dashboard, as well as more enriched data and logs.",
+    "image": "//meta-l.cdn.bubble.io/f1689621635599x442660361034541200/bdk_512x512%20%282%29.png",
+    "license": "open_source",
+    "link": "https://flusk.eu/vault",
+    "name": "Flusk | Enriched Errors & Logs",
+    "plugin_instructions": "1. Install the plugin\n2. Register your app on the Flusk dashboard.",
+    "sa_node_version": 18
+}
